@@ -1,5 +1,14 @@
 # 💫 About Me:
-🤖 Data Scientist graduate passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, LLM, and Generative AI.<br>🎓 Graduated in Data Science from FAST University, Lahore, with strong academic and practical foundations.<br>📊 Experienced in building AI models, data analysis, and solving real-world problems using data-driven approaches.<br>🧠 Enthusiastic about LLMs, Computer Vision, and turning complex data into actionable insights.<br>🚀 Always eager to learn, collaborate, and contribute to impactful projects in the AI and Data Science ecosystem.
+🤖 Hi, I am Taha, a Data Science professional focused on designing and deploying production-ready AI systems that solve real-world problems at scale.
+ 
+I specialize in Machine Learning, Deep Learning, and Generative AI, with hands-on experience in Computer Vision and NLP. I build end-to-end pipelines from data preprocessing to model deployment, ensuring solutions are accurate, efficient, and scalable. Through projects such as CHARM, DeepCeutix, and ScanSquare, I have developed real-time AI systems and improved model performance through structured experimentation and optimization, achieving up to 10 to 15 percent improvement in model accuracy, along with measurable gains in F1 score, precision, recall, and overall model reliability 📈.
+ 
+I have delivered 100+ AI and software development projects across diverse domains, working both independently and in collaborative environments, with a strong track record of client satisfaction, repeat engagements, and consistent high-quality delivery for international clients.
+ 
+My approach is centered on translating complex data into measurable impact through strong system design, model optimization, and practical implementation.
+ 
+Core Skills:
+ Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • Python • SQL • Data Analysis • Data Visualization
 
 
 ## 🌐 Socials:
