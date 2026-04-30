@@ -1,14 +1,12 @@
 # 💫 About Me:
-🤖 Hi, I am Taha, a Data Science professional focused on designing and deploying production-ready AI systems that solve real-world problems at scale.
- 
-I specialize in Machine Learning, Deep Learning, and Generative AI, with hands-on experience in Computer Vision and NLP. I build end-to-end pipelines from data preprocessing to model deployment, ensuring solutions are accurate, efficient, and scalable. Through projects such as CHARM, DeepCeutix, and ScanSquare, I have developed real-time AI systems and improved model performance through structured experimentation and optimization, achieving up to 10 to 15 percent improvement in model accuracy, along with measurable gains in F1 score, precision, recall, and overall model reliability 📈.
- 
-I have delivered 100+ AI and software development projects across diverse domains, working both independently and in collaborative environments, with a strong track record of client satisfaction, repeat engagements, and consistent high-quality delivery for international clients.
- 
-My approach is centered on translating complex data into measurable impact through strong system design, model optimization, and practical implementation.
- 
+🤖 Hi, I’m Taha, a Data Science professional building production-ready AI systems that solve real-world problems at scale.
+
+I specialize in Machine Learning, Deep Learning, and Generative AI, with hands-on experience in Computer Vision and NLP. I develop end-to-end pipelines—from data preprocessing to deployment—focused on accuracy, efficiency, and scalability. Through projects like CHARM, DeepCeutix, and ScanSquare, I’ve built real-time AI systems and improved model performance by 10–15% across key metrics like F1 score, precision, and recall.
+
+I’ve delivered 100+ AI and software projects for global clients, with a strong record of quality, client satisfaction, and repeat work.
+
 Core Skills:
- Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • Python • SQL • Data Analysis • Data Visualization
+Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • Python • SQL • Data Analysis • Data Visualization
 
 
 ## 🌐 Socials:
