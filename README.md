@@ -3,10 +3,10 @@
 
 I specialize in Machine Learning, Deep Learning, and Generative AI, with experience in Computer Vision and NLP. I develop end-to-end pipelines—from data preprocessing to deployment—focused on accuracy, efficiency, and scalability.
 
-I’ve delivered 100+ AI and software projects for global clients, with a strong record of quality, client satisfaction, and repeat work.
+I’ve delivered 120+ AI and software projects for global clients, with a strong record of quality, client satisfaction, and repeat work.
 
 Core Skills:
-Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • Python • SQL • Data Analysis • Data Visualization
+Machine Learning • Deep Learning • LLM • Computer Vision • Generative AI • Python • SQL • Data Analysis • Data Visualization
 
 
 ## 🌐 Socials:
