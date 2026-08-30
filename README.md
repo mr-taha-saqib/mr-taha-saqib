@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi, I'm Taha — an AI Engineer building production-ready AI systems for real businesses.
+Hi, I'm Taha - an AI Engineer building production-ready AI systems for real businesses.
 
 I specialize in LLM-powered applications: multi-agent systems with LangGraph, RAG pipelines, and voice AI agents built on OpenAI and Anthropic APIs. I take products end-to-end — from architecture and data pipelines to FastAPI backends, React/Next.js frontends, and cloud deployment.
 
-I've delivered 120+ AI and software projects for global clients, including 50+ repeat clients — a track record built on shipping systems that actually run in production, not just notebooks.
+I've delivered 120+ AI and software projects for global clients, including 50+ repeat clients, a track record built on shipping systems that actually run in production, not just notebooks.
 
 Core Skills: Generative AI • LLM Agents (LangGraph) • RAG • Voice AI • Computer Vision (YOLOv8) • Python • FastAPI • React / Next.js • PostgreSQL
 
