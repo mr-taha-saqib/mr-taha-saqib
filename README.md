@@ -5,8 +5,6 @@ I specialize in LLM-powered applications: multi-agent systems with LangGraph, RA
 
 I've delivered 120+ AI and software projects for global clients, including 50+ repeat clients — a track record built on shipping systems that actually run in production, not just notebooks.
 
-🔭 Currently building: SiteLine — an AI receptionist for construction & inspection businesses.
-
 Core Skills: Generative AI • LLM Agents (LangGraph) • RAG • Voice AI • Computer Vision (YOLOv8) • Python • FastAPI • React / Next.js • PostgreSQL
 
 
