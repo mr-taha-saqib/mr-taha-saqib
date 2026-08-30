@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Hi, I’m Taha, a Data Science professional building production-ready AI systems that solve real-world problems at scale.
+Hi, I’m Taha, a Data Science professional building production-ready AI systems that solve real-world problems at scale.
 
 I specialize in Machine Learning, Deep Learning, and Generative AI, with experience in Computer Vision and NLP. I develop end-to-end pipelines—from data preprocessing to deployment—focused on accuracy, efficiency, and scalability.
 
