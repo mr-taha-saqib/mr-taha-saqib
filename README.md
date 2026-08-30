@@ -1,12 +1,13 @@
 # 💫 About Me:
-Hi, I’m Taha, a Data Science professional building production-ready AI systems that solve real-world problems at scale.
+Hi, I'm Taha — an AI Engineer building production-ready AI systems for real businesses.
 
-I specialize in Machine Learning, Deep Learning, and Generative AI, with experience in Computer Vision and NLP. I develop end-to-end pipelines—from data preprocessing to deployment—focused on accuracy, efficiency, and scalability.
+I specialize in LLM-powered applications: multi-agent systems with LangGraph, RAG pipelines, and voice AI agents built on OpenAI and Anthropic APIs. I take products end-to-end — from architecture and data pipelines to FastAPI backends, React/Next.js frontends, and cloud deployment.
 
-I’ve delivered 120+ AI and software projects for global clients, with a strong record of quality, client satisfaction, and repeat work.
+I've delivered 120+ AI and software projects for global clients, including 50+ repeat clients — a track record built on shipping systems that actually run in production, not just notebooks.
 
-Core Skills:
-Machine Learning • Deep Learning • LLM • Computer Vision • Generative AI • Python • SQL • Data Analysis • Data Visualization
+🔭 Currently building: SiteLine — an AI receptionist for construction & inspection businesses.
+
+Core Skills: Generative AI • LLM Agents (LangGraph) • RAG • Voice AI • Computer Vision (YOLOv8) • Python • FastAPI • React / Next.js • PostgreSQL
 
 
 ## 🌐 Socials:
