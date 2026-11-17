@@ -10,28 +10,28 @@ Core Skills: Generative AI • LLM Agents (LangGraph) • RAG • Voice AI • C
 
 ## 🚀 Featured Work
 
-**🎙️ [SiteLine AI Receptionist](https://github.com/mr-taha-saqib/SiteLine-AI-Receptionist)**
-24/7 inbound voice agent for US construction and inspection firms. Answers calls in real time, quotes from a live pricing table and books straight into Google Calendar.
+**🎙️ [SiteLine AI Receptionist](https://github.com/mr-taha-saqib/SiteLine-AI-Receptionist)**<br>
+24/7 inbound voice agent for US construction and inspection firms. Answers calls in real time, quotes from a live pricing table and books straight into Google Calendar.<br>
 `Python` `FastAPI` `Twilio` `LLM function calling` `Google Calendar API`
 
-**📞 [Autonomous AI Sales Caller + CRM](https://github.com/mr-taha-saqib/Autonomous-AI-Sales-Caller-CRM)**
-Outbound calling platform that qualifies leads, handles objections, books appointments and writes every call back to the CRM.
+**📞 [Autonomous AI Sales Caller + CRM](https://github.com/mr-taha-saqib/Autonomous-AI-Sales-Caller-CRM)**<br>
+Outbound calling platform that qualifies leads, handles objections, books appointments and writes every call back to the CRM.<br>
 `FastAPI` `Twilio Voice` `Claude API` `PostgreSQL` `Next.js`
 
-**⚖️ [AI Legal Contract Review Assistant](https://github.com/mr-taha-saqib/ai-powered-legal-contract-review-risk-analysis-assistant)**
-Clause extraction and risk scoring over uploaded contracts, with cited source spans.
+**⚖️ [AI Legal Contract Review Assistant](https://github.com/mr-taha-saqib/ai-powered-legal-contract-review-risk-analysis-assistant)**<br>
+Clause extraction and risk scoring over uploaded contracts, with cited source spans.<br>
 `Next.js` `TypeScript` `OpenAI` `RAG` `PostgreSQL`
 
-**🐔 [CHARM: Poultry Health Monitoring](https://github.com/mr-taha-saqib/CHARM-Chicken-Health-Assessment-and-Remote-Monitoring)**
-Computer-vision platform that detects poultry disease in real time from farm camera feeds.
+**🐔 [CHARM: Poultry Health Monitoring](https://github.com/mr-taha-saqib/CHARM-Chicken-Health-Assessment-and-Remote-Monitoring)**<br>
+Computer-vision platform that detects poultry disease in real time from farm camera feeds.<br>
 `YOLOv8` `ResNet` `Django` `PostgreSQL`
 
-**🏦 [German SME Transaction Classifier](https://github.com/mr-taha-saqib/german-sme-bank-transaction-classification)**
-37-class bank-transaction classifier comparing GermanFinBERT and FinBERT, with a leakage-safe pipeline and a FastAPI serving layer.
+**🏦 [German SME Transaction Classifier](https://github.com/mr-taha-saqib/german-sme-bank-transaction-classification)**<br>
+37-class bank-transaction classifier comparing GermanFinBERT and FinBERT, with a leakage-safe pipeline and a FastAPI serving layer.<br>
 `Transformers` `FinBERT` `FastAPI` `MLOps`
 
-**🎬 [SVD Collaborative Filtering](https://github.com/mr-taha-saqib/SVD-Based-Collaborative-Filtering)**
-Movie recommender on truncated SVD, validated on MovieLens 100K and 1M.
+**🎬 [SVD Collaborative Filtering](https://github.com/mr-taha-saqib/SVD-Based-Collaborative-Filtering)**<br>
+Movie recommender on truncated SVD, validated on MovieLens 100K and 1M.<br>
 `NumPy` `Matrix factorization` `Recommender systems`
 
 ## 🌐 Connect:
