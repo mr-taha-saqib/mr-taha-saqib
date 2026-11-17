@@ -18,11 +18,11 @@ Core Skills: Generative AI • LLM Agents (LangGraph) • RAG • Voice AI • C
 Outbound calling platform that qualifies leads, handles objections, books appointments and writes every call back to the CRM.<br>
 `FastAPI` `Twilio Voice` `Claude API` `PostgreSQL` `Next.js`
 
-**⚖️ [AI Legal Contract Review Assistant](https://github.com/mr-taha-saqib/ai-powered-legal-contract-review-risk-analysis-assistant)**<br>
+**⚖️ [AI Legal Contract Review Assistant](https://github.com/mr-taha-saqib/legal-contract-review-ai)**<br>
 Clause extraction and risk scoring over uploaded contracts, with cited source spans.<br>
 `Next.js` `TypeScript` `OpenAI` `RAG` `PostgreSQL`
 
-**🐔 [CHARM: Poultry Health Monitoring](https://github.com/mr-taha-saqib/CHARM-Chicken-Health-Assessment-and-Remote-Monitoring)**<br>
+**🐔 [CHARM: Poultry Health Monitoring](https://github.com/mr-taha-saqib/charm-poultry-health-monitoring)**<br>
 Computer-vision platform that detects poultry disease in real time from farm camera feeds.<br>
 `YOLOv8` `ResNet` `Django` `PostgreSQL`
 
