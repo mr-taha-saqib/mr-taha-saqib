@@ -8,8 +8,34 @@ I've delivered 120+ AI and software projects for global clients, including 50+ r
 Core Skills: Generative AI • LLM Agents (LangGraph) • RAG • Voice AI • Computer Vision (YOLOv8) • Python • FastAPI • React / Next.js • PostgreSQL
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahasaqib6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahasaqib24@gmail.com) 
+## 🚀 Featured Work
+
+**🎙️ [SiteLine AI Receptionist](https://github.com/mr-taha-saqib/SiteLine-AI-Receptionist)**
+24/7 inbound voice agent for US construction and inspection firms. Answers calls in real time, quotes from a live pricing table and books straight into Google Calendar.
+`Python` `FastAPI` `Twilio` `LLM function calling` `Google Calendar API`
+
+**📞 [Autonomous AI Sales Caller + CRM](https://github.com/mr-taha-saqib/Autonomous-AI-Sales-Caller-CRM)**
+Outbound calling platform that qualifies leads, handles objections, books appointments and writes every call back to the CRM.
+`FastAPI` `Twilio Voice` `Claude API` `PostgreSQL` `Next.js`
+
+**⚖️ [AI Legal Contract Review Assistant](https://github.com/mr-taha-saqib/ai-powered-legal-contract-review-risk-analysis-assistant)**
+Clause extraction and risk scoring over uploaded contracts, with cited source spans.
+`Next.js` `TypeScript` `OpenAI` `RAG` `PostgreSQL`
+
+**🐔 [CHARM: Poultry Health Monitoring](https://github.com/mr-taha-saqib/CHARM-Chicken-Health-Assessment-and-Remote-Monitoring)**
+Computer-vision platform that detects poultry disease in real time from farm camera feeds.
+`YOLOv8` `ResNet` `Django` `PostgreSQL`
+
+**🏦 [German SME Transaction Classifier](https://github.com/mr-taha-saqib/german-sme-bank-transaction-classification)**
+37-class bank-transaction classifier comparing GermanFinBERT and FinBERT, with a leakage-safe pipeline and a FastAPI serving layer.
+`Transformers` `FinBERT` `FastAPI` `MLOps`
+
+**🎬 [SVD Collaborative Filtering](https://github.com/mr-taha-saqib/SVD-Based-Collaborative-Filtering)**
+Movie recommender on truncated SVD, validated on MovieLens 100K and 1M.
+`NumPy` `Matrix factorization` `Recommender systems`
+
+## 🌐 Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-saqib-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahasaqib24@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://taha-saqib.vercel.app) 
 
 # 💻 Tech Stack:
 
